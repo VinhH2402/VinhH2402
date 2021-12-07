@@ -38,4 +38,4 @@ Cloud
 ![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinhh2402&show_icons=true&locale=en" alt="vinhh2402" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VinhH2402&show_icons=true&locale=en" alt="VinhH2402" /></p>
